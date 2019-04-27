@@ -1,0 +1,11 @@
+model_id,nfolds,score_each_iteration,fold_assignment,balance_classes,max_after_balance_size,max_confusion_matrix_size,ntrees,max_depth,min_rows,nbins,nbins_top_level,nbins_cats,stopping_metric,stopping_tolerance,seed,sample_rate,histogram_type,categorical_encoding,distribution
+XRT_1_AutoML_20190418_163635,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,7.51E+18,0.632000029,Random,AUTO,gaussian
+XRT_1_AutoML_20190418_163635,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,7.51E+18,0.632000029,Random,AUTO,gaussian
+XRT_1_AutoML_20190418_165439,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,-6.10E+18,0.632000029,Random,AUTO,gaussian
+XRT_1_AutoML_20190418_172432,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,-5.90E+18,0.632000029,Random,AUTO,gaussian
+XRT_1_AutoML_20190418_163635,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,7.51E+18,0.632000029,Random,AUTO,gaussian
+XRT_1_AutoML_20190418_165439,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,-6.10E+18,0.632000029,Random,AUTO,gaussian
+XRT_1_AutoML_20190418_172432,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,-5.90E+18,0.632000029,Random,AUTO,gaussian
+XRT_1_AutoML_20190418_181012,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,9.39E+17,0.632000029,Random,AUTO,gaussian
+XRT_1_AutoML_20190418_163635,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,7.51E+18,0.632000029,Random,AUTO,gaussian
+XRT_1_AutoML_20190418_165439,5,FALSE,modulo,FALSE,5,20,50,20,1,20,1024,1024,deviance,0.006802092,-6.10E+18,0.632000029,Random,AUTO,gaussian
